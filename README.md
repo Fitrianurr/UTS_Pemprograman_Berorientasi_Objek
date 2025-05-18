@@ -25,24 +25,25 @@ Sistem ini merupakan aplikasi berbasis Java Console yang dibuat untuk memenuhi t
 | `Pesanan.java`     | Menyimpan keseluruhan pesanan, termasuk diskon dan metode cetak struk    |
 
 ## 🚀 Cara Menjalankan Program
-##💡 Prasyarat
+
+💡 Prasyarat
 - Sudah menginstall **Java JDK** (versi 8 atau lebih baru)
 - Terminal atau command prompt tersedia
 
-## 🔧 Langkah-langkah Menjalankan:
+🔧 Langkah-langkah Menjalankan:
 1. Buka terminal, masuk ke direktori project:
    ```bash
    cd path/ke/folder/UTS_SistemPemesananMakanan
 2. Compile semua file Java di dalam folder uts_sistempemesananmakanan
-3. Jalankan program utama (Main.java)
+4. Jalankan program utama (Main.java)
 ⚠️ Karena program menggunakan package uts_sistempemesananmakanan, maka saat compile dan run, wajib menyertakan nama package tersebut.
 
-##🧠 Catatan Logika
+## 🧠 Catatan Logika
 1. Setelah pesanan dibatalkan, pesanan akan otomatis di-reset. Pengguna bisa memesan lagi dan mencetak struk seperti biasa.
 2. Diskon hanya berlaku jika pengguna mengaktifkannya sebelum mencetak struk.
 3. Program akan menolak mencetak struk jika belum ada nama pemesan, metode pembayaran, atau pesanan kosong.
 
-##✍️ Pembuat
+## ✍️ Pembuat
 1. Ai Puji Saripah
 2. Astrid Aulia
 3. Fitria Nurhayati
@@ -50,8 +51,8 @@ Sistem ini merupakan aplikasi berbasis Java Console yang dibuat untuk memenuhi t
 5. Khairan Fathan
 6. Rifda Marini Juwita
 
-##🖼️ Tampilan Menu Program
+## 🖼️ Tampilan Menu Program
 ![Tampilan Awal](https://github.com/user-attachments/assets/10836299-801d-4a19-9543-e106de8370b5)
 
-##🖼️ Tampilan Cetak Struk
+## 🖼️ Tampilan Cetak Struk
 ![Tampilan cetak Struk](https://github.com/user-attachments/assets/45a0ad98-0afd-43f1-b93b-0c569dfceacc)
